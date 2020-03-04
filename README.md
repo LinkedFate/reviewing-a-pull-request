@@ -19,7 +19,7 @@ To play the game:
 6. To pause the game, just press the space bar again.
 
 ### New Features
-
+You can play the game at: https://LinkedFate.github.io/github-games/
 TBD!
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
